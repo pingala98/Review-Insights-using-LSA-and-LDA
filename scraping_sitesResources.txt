@@ -1,0 +1,4 @@
+https://meritocracy.is/blog/2020/02/27/how-to-scrape-amazon-reviews-with-scrapy/
+
+https://blog.datahut.co/scraping-amazon-reviews-python-scrapy/
+https://www.usessionbuddy.com/post/How-To-Scrape-Amazon-Reviews-Using-Python/

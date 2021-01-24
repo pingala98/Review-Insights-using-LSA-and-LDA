@@ -1,0 +1,2 @@
+always install scrapy with sudo or you wont be able to find it after install
+run scrapy run from outside the project folder or use "scrapy crawl command", the output will be saved in the cwd
